@@ -1,5 +1,10 @@
 # script chat lol
 Script qui permet d'ecire sur le chat de la champ-select de league of legend des textes que vous avez pré-définis à l'avance.
+Pour les débutants, venir télécharger en zip le projet vous trouverez le script.py avec une image. Bien prendre les deux et stocker ca dans un dossier. 
+Vous pouvez faire ca, cliquer sur le bouton Code puis download zip. unzip dans un dossier chez vous ! 
+![image](https://github.com/scienceMat/script_chat_lol/assets/148953555/de5090c3-ba1a-4181-9970-d3c3ae34e9a8)
+
+
 
 Pour commencer il vous faut installer python sur votre machine => https://www.youtube.com/watch?v=Fs4SqpbgQ5I&t=4s
 
